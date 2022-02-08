@@ -25,3 +25,5 @@ Segmentación/filtros
 5. Departamento
 6. Puesto
 7. Turno
+
+La información que se encuentra almacenada en la base de datos SQL de la empresa
