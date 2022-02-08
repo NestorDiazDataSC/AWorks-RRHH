@@ -2,23 +2,19 @@
 Trabajo de BI para Empresa Ficticia donde se necesita presentar al area de Recursos Humanos información del tipo tactica para la toma de deciciones
 #
 Se solicita el analisis de...
-1. Empleados.
-2. 
-A. Cantidad total.
-
-B. Cantidad con apertura por género (M, F).
-C. Cantidad con apertura por gerencia.
-D. Cantidad de empleados por turno.
-E. Cantidad de contrataciones por año.
-2. Salarios.
-A. Sumatoria total.
-B. Puesto con salario máximo.
-C. Puesto con salario mínimo.
-D. Salario por puesto, ordenado de mayor a
-menor.
-E. Cantidad de empleados por tarifa
-salarial.
-F. Salario promedio por gerencia.
+1. Empleados:
+Cantidad total.
+Cantidad con apertura por género (M, F).
+Cantidad con apertura por gerencia.
+Cantidad de empleados por turno.
+Cantidad de contrataciones por año.
+2. Salarios:
+Sumatoria total.
+Puesto con salario máximo.
+Puesto con salario mínimo.
+Salario por puesto, ordenado de mayor a menor.
+Cantidad de empleados por tarifa salarial.
+Salario promedio por gerencia.
 
 La empresa quiere filtrar sus datos de esta manera
 Segmentación/filtros
