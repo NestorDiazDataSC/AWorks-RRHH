@@ -1,6 +1,6 @@
 # Adventure Works - RRHH
-Trabajo de BI para Empresa Ficticia para presentar a sus Recursos Humanos para toma de deciciones
-
+Trabajo de BI para Empresa Ficticia donde se necesita presentar al area de Recursos Humanos información del tipo tactica para la toma de deciciones
+#
 Se solicita el analisis de...
 1. Empleados.
 A. Cantidad total.
