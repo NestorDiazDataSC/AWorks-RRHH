@@ -3,7 +3,9 @@ Trabajo de BI para Empresa Ficticia donde se necesita presentar al area de Recur
 #
 Se solicita el analisis de...
 1. Empleados.
+2. 
 A. Cantidad total.
+
 B. Cantidad con apertura por género (M, F).
 C. Cantidad con apertura por gerencia.
 D. Cantidad de empleados por turno.
