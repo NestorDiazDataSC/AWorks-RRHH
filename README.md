@@ -3,11 +3,11 @@ Trabajo de BI para Empresa Ficticia donde se necesita presentar al area de Recur
 #
 Se solicita el analisis de...
 1. Empleados:
-Cantidad total.
-Cantidad con apertura por género (M, F).
-Cantidad con apertura por gerencia.
-Cantidad de empleados por turno.
-Cantidad de contrataciones por año.
+Cantidad total
+Cantidad con apertura por género (M, F)
+Cantidad con apertura por gerencia
+Cantidad de empleados por turno
+Cantidad de contrataciones por año
 2. Salarios:
 Sumatoria total.
 Puesto con salario máximo.
