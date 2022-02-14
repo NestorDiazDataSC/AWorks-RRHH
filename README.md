@@ -27,3 +27,4 @@ Segmentación/filtros
 7. Turno
 
 La información que se encuentra almacenada en la base de datos SQL de la empresa
+Se presenta el Dashboard para el uso por parte de RRHH, utilizando una paleta de colores hipotetica.
